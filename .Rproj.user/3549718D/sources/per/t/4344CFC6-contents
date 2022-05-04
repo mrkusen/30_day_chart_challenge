@@ -62,4 +62,4 @@ a = ggplot(change_df) +
              aes(label=location_name), nudge_y = 1700)
 
 a
-
+ggsave(a,filename="day3/day3.png")

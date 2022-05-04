@@ -1,0 +1,13 @@
+{
+    "sortOrder": [
+        {
+            "columnIndex": 3,
+            "ascending": false
+        },
+        {
+            "columnIndex": 2,
+            "ascending": true
+        }
+    ],
+    "path": "~/Desktop/M.A. Demography/2. Statistics/R/Scripts/Data Viz/30_day_chart_challenge/30_day_chart_challenge/day7"
+}
